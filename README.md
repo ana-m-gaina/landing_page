@@ -7,8 +7,8 @@ This project focuses on converting Photoshop mockup designs into real websites u
 ## Project Highlights
 
 - Convert Photoshop mockup designs into functional websites.
-- Develop responsive websites using the mobile-first approach for optimal viewing on different devices and screen sizes.
-- Create layouts using the Flex and Grid layout systems, enabling flexible and dynamic designs.
+- Develop responsive websites using the mobile-first approach.
+- Create layouts using the Flex and Grid layout systems.
 - Incorporate smooth and visually appealing animations to enhance the user experience.
 - Optimize images for improved performance and faster loading times.
 - Troubleshoot issues proficiently to ensure the functionality and stability of the websites.
@@ -16,9 +16,7 @@ This project focuses on converting Photoshop mockup designs into real websites u
 - Measure website performance to identify areas for improvement and optimization.
 - Write valid and semantic HTML5 code, improving search engine visibility and accessibility.
 - Increase productivity by utilizing lesser-known shortcuts and techniques.
-- Familiarize yourself with tools that simplify and streamline the web development process.
-- Host your code on GitHub for version control and collaboration.
-- Deploy websites to the cloud, making them accessible to a global audience.
+- Deploy the website to the cloud.
 - Set up continuous deployment to automate the process of deploying updates and changes.
 
 ## Resources 
