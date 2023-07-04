@@ -2,8 +2,11 @@
   "name": "landin_page",
   "version": "1.0.0",
   "description": "",
+  "source": "index.html",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build --dist-dir public"
   },
   "keywords": [],
   "author": "",
