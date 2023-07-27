@@ -27,7 +27,7 @@ https://codewithmosh.com/
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Live preview
-[https://01landing-page.netlify.app/](https://game-hub-git-main-ana-m-gaina.vercel.app/)https://game-hub-git-main-ana-m-gaina.vercel.app/
+[https://01landing-page.netlify.app/]
 
 
 
