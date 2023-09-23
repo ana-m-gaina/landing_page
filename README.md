@@ -3,6 +3,10 @@
 
 This project focuses on converting Photoshop mockup designs into real websites using modern web development techniques. It involves building responsive websites with a mobile-first approach, creating layouts using Flex and Grid layout systems, adding smooth and beautiful animations, optimizing images for performance, troubleshooting issues, and adhering to industry best practices for writing HTML5/CSS3 code. Additionally, it covers measuring website performance, writing valid and semantic HTML5 code that search engines love, increasing productivity using shortcuts, utilizing helpful tools, hosting code on GitHub, setting up continuous deployment, and deploying websites to the cloud.
 
+## Live preview
+[https://01landing-page.netlify.app/]
+
+
 ## Project Highlights
 
 - Convert Photoshop mockup designs into functional websites.
@@ -26,8 +30,6 @@ https://codewithmosh.com/
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Live preview
-[https://01landing-page.netlify.app/]
 
 
 
